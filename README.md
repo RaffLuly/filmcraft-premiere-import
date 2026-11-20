@@ -1,10 +1,18 @@
 # FilmCraft Premiere Import — Community Preview
 
+**Italiano** · [English](README.en.md)
+
 Versione gratuita e **non ufficiale** di FilmCraft con il comando **File → Importa progetto Premiere Pro…**.
 
 Importa direttamente i file `.prproj`, senza aprire Premiere e senza esportare prima un XML. La lettura dei progetti e dei media avviene localmente. I video non vengono caricati su GitHub o su un servizio di conversione.
 
 **[Scarica la versione per Mac Apple Silicon](https://github.com/RaffLuly/filmcraft-premiere-import/releases/tag/v0.1.0-preview)** · [Progetto originale](https://github.com/storytold/filmcraft) · [Crediti](CREDITS.md)
+
+## Un progetto aperto a chi vuole migliorarlo
+
+Non sono uno sviluppatore. Sono un utilizzatore che voleva aprire i propri progetti Premiere in FilmCraft e ha deciso di condividere questa versione, basata sul lavoro degli autori originali.
+
+Se sai come migliorare l’importazione, risolvere problemi o rendere l’app compatibile con altri sistemi, sei il benvenuto. Puoi aprire una issue o proporre una pull request. L’idea è semplice: renderla più utile per tutti, dando sempre credito a chi ha fatto il lavoro.
 
 ## A chi serve
 
