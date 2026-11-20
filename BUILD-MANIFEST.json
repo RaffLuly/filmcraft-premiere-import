@@ -1,0 +1,17 @@
+{
+  "release": "v0.1.0-preview",
+  "base_commit": "a6c0f45966b422142a84bf855332c4a1833450cf",
+  "importer_commit": "fce333299043f1452a5618f0926d8cb7342dd0c7",
+  "upstream": "https://github.com/storytold/filmcraft",
+  "importer_prs": [
+    "https://github.com/storytold/filmcraft/pull/2312",
+    "https://github.com/storytold/filmcraft/pull/4504"
+  ],
+  "target": "aarch64-apple-darwin",
+  "configuration": "dev profile optimized + debuginfo, subsequently stripped",
+  "whisper": false,
+  "neural_voices": false,
+  "apple_developer_signed": false,
+  "apple_notarized": false,
+  "patch_sha256": "2a05e46b5928a5cc737a9be702502ba5ba33b0c84e1f887b0099fa4939714a17"
+}
